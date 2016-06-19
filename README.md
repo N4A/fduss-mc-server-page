@@ -1,4 +1,4 @@
 ## fduss-mc-server-page
-mc server page, ip:139.129.130.195
+mc server homepage, ip:120.27.93.148
 ## IDE
 webstorm
